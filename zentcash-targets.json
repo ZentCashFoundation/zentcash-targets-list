@@ -1,0 +1,11 @@
+{
+  "targets":[
+         {
+          "name": "Listed on Xeggex",
+          "description": "We need to fund the listing on Xeggex to facilitate exchange between parties.",
+          "priority": 1,
+          "progress": "work"
+          "image": "Image path."
+         }
+  ]
+}
