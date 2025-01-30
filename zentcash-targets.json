@@ -4,6 +4,7 @@
           "name": "Listed on Xeggex",
           "description": "We need to fund the listing on Xeggex to facilitate exchange between parties.",
           "priority": 1,
+          "value": 5000,
           "progress": "work",
           "image": "Image path."
          }
